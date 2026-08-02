@@ -1,3 +1,8 @@
+<software-developer>
+  <location>Belgrade</location>
+  <focus>Education | Backend | Frontend | UI/UX design</focus>
+</software-developer>
+
 # 💫 About Me:
 Bachelor mathematician for computer science, College degree, Computer science and informatics department, Faculty of Mathematics, Belgrade University
 
