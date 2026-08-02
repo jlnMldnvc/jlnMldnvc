@@ -1,5 +1,5 @@
 ```html
-<sofrtware-developer>
+<software-developer>
   <location>Belgrade</location>
   <focus>Education | Backend | Frontend | UI/UX | Interactive Apps</focus>
 </software-developer>
