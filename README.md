@@ -14,9 +14,10 @@ Software Engineer (MATF) with 10 years of experience in technical curriculum dev
 - **Frameworks:** Spring Boot, Hibernate, React, Vue, Node.js
 - **Tools:** Git, Maven, Gradle, MySQL, Docker, IntelliJ IDEA, VS Code
 
-## Featured Projects
-- **[Java Spring Boot Project Name]** - Brief 1-sentence description.
-- **[React / JS Web App]** - Brief 1-sentence description.
+
+[//]: <> (## Featured Projects)
+[comment]: <> (- **[Java Spring Boot Project Name]** - Brief 1-sentence description.)
+[comment]: # (- **[React / JS Web App]** - Brief 1-sentence description.)
 
 ## Contact
 - **LinkedIn:** https://linkedin.com/in/jelena-mladenovic
