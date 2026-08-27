@@ -2,6 +2,7 @@
 <software-developer>
   <location>Belgrade</location>
   <focus>Education | Backend | Frontend | UI/UX | Interactive Apps</focus>
+  <education>Software Engineer (MATF) | Java, Spring Boot, JavaScript & React</education>
 </software-developer>
 ```
 
