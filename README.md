@@ -35,25 +35,29 @@ Learning and Development Specialist
 Software engineer (MATF) with 10 years of experience training Java and Full-stack developers. Specialized in project-based programs that elevate junior developers to productionready standards. Passionate about advancing technical expertise in engineering education.
 
 PROGRAMMING LANGUAGES
-Java (Core, Advanced, Desktop, Web Services)
-Android Mobile (Java - Geolocation & Sensor, Animation & Game)
-JavaScript (ES6+, Async/Await, TypeScript)
-HTML5, CSS3, SQL
+
+Java (Core, Advanced, Desktop, Web Services)</br>
+Android Mobile (Java - Geolocation & Sensor, Animation & Game)</br>
+JavaScript (ES6+, Async/Await, TypeScript)</br>
+HTML5, CSS3, SQL</br>
 Also familiar with: PHP, C, C++, Python
 
 FRAMEWORKS & LIBRARIES
-Java: Spring Framework (MVC, Boot), Hibernate/JPA, Jakarta EE (Servlet, JSP, JSTL, EJB), JavaFX, Swing/AWT, Android SDK
+
+Java: Spring Framework (MVC, Boot), Hibernate/JPA, Jakarta EE (Servlet, JSP, JSTL, EJB), JavaFX, Swing/AWT, Android SDK</br>
 JavaScript: React, Vue, Angular, Node.js, jQuery, Canvas API
 
 TOOLS, PLATFORMS & TECHNOLOGIES
-IDEs & Editors: IntelliJ IDEA, Android Studio, Visual Studio Code
-Build & Version Control: Git (GitHub), Maven, Gradle, NPM
-Databases & Servers: MySQL (Workbench), Apache Tomcat, GlassFish
+
+IDEs & Editors: IntelliJ IDEA, Android Studio, Visual Studio Code</br>
+Build & Version Control: Git (GitHub), Maven, Gradle, NPM</br>
+Databases & Servers: MySQL (Workbench), Apache Tomcat, GlassFish</br>
 APIs & Data: RESTful API, SOAP, Ajax, JDBC, XML/JSON (DOM, SAX, JAXB)
 
 METHODOLOGIES & PRACTICES
-OOP, Design Patterns, Agile, SDLC, QA, UML
-UI/UX Design (Web & Mobile-first)
+
+OOP, Design Patterns, Agile, SDLC, QA, UML</br>
+UI/UX Design (Web & Mobile-first)</br>
 AI-Assisted Development, Prompt Engineering
 
 ## 🌐 Socials:
