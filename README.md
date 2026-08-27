@@ -5,6 +5,23 @@
 </software-developer>
 ```
 
+# Hi, I'm Jelena 👋
+
+Software Engineer (MATF) with 10 years of experience in technical curriculum development, Java & Full-stack education.
+
+## Tech Stack
+- **Languages:** Java, JavaScript, TypeScript, HTML5/CSS3, SQL
+- **Frameworks:** Spring Boot, Hibernate, React, Vue, Node.js
+- **Tools:** Git, Maven, Gradle, MySQL, Docker, IntelliJ IDEA, VS Code
+
+## Featured Projects
+- **[Java Spring Boot Project Name]** - Brief 1-sentence description.
+- **[React / JS Web App]** - Brief 1-sentence description.
+
+## Contact
+- **LinkedIn:** https://linkedin.com/in/jelena-mladenovic
+- **Email:** jinmldnvc@gmail.com
+
 # 💫 About Me:
 
 Technical Trainer - Java & Full-stack Development
