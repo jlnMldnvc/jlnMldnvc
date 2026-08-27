@@ -16,9 +16,10 @@ Software Engineer (MATF) with 10 years of experience in technical curriculum dev
 - **Tools:** Git, Maven, Gradle, MySQL, Docker, IntelliJ IDEA, VS Code
 
 
-[//]: <> (## Featured Projects - ToDo)
+## Featured Projects
 [comment]: <> (- **[Java Spring Boot Project Name]** - Full-stack e-commerce backend implementing JWT authentication, Hibernate, and MySQL integration.)
 [comment]: # (- **[React / JS Web App]** - Brief 1-sentence description.)
+- **[Minimalist Dark Mode Task App](https://github.com/jlnMldnvc/modern-do-magic)** ([Live Demo](https://modern-do-magic.lovable.app/)) - Performance-optimized React application built with plain CSS, dark mode, and local storage persistence.
 
 ## Contact
 - **LinkedIn:** https://linkedin.com/in/jelena-mladenovic
