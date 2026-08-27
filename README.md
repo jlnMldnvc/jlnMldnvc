@@ -20,6 +20,7 @@ Software Engineer (MATF) with 10 years of experience in technical curriculum dev
 [comment]: <> (- **[Java Spring Boot Project Name]** - Full-stack e-commerce backend implementing JWT authentication, Hibernate, and MySQL integration.)
 [comment]: # (- **[React / JS Web App]** - Brief 1-sentence description.)
 - **[Minimalist Dark Mode Task App](https://github.com/jlnMldnvc/modern-do-magic)** ([Live Demo](https://modern-do-magic.lovable.app/)) - Performance-optimized React application built with plain CSS, dark mode, and local storage persistence.
+- **[Internet Package Sales Tracker](https://github.com/jlnMldnvc/fx.nj.20.02.sb)** - JavaFX desktop application for managing internet package sales built with SceneBuilder (FXML) and MVC architecture.
 
 ## Contact
 - **LinkedIn:** https://linkedin.com/in/jelena-mladenovic
