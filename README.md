@@ -15,8 +15,8 @@ Software Engineer (MATF) with 10 years of experience in technical curriculum dev
 - **Tools:** Git, Maven, Gradle, MySQL, Docker, IntelliJ IDEA, VS Code
 
 
-[//]: <> (## Featured Projects)
-[comment]: <> (- **[Java Spring Boot Project Name]** - Brief 1-sentence description.)
+[//]: <> (## Featured Projects - ToDo)
+[comment]: <> (- **[Java Spring Boot Project Name]** - Full-stack e-commerce backend implementing JWT authentication, Hibernate, and MySQL integration.)
 [comment]: # (- **[React / JS Web App]** - Brief 1-sentence description.)
 
 ## Contact
