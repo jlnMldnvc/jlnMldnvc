@@ -43,4 +43,4 @@ says what I added.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/jelena-mladenovic) · [jlnmldnvc@gmail.com](mailto:jlnmldnvc@gmail.com)
+[LinkedIn](https://linkedin.com/in/jelena-mladenović) · [jlnmldnvc@gmail.com](mailto:jlnmldnvc@gmail.com)
