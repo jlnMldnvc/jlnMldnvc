@@ -17,7 +17,7 @@ including AI-assisted development.
 
 ## What I work with
 
-| | |
+| Area | Technologies |
 |---|---|
 | **Strongest** | Java, JavaScript, HTML/CSS, SQL (MySQL), Git/GitHub |
 | **Working knowledge** | React, TypeScript, Spring Boot, Hibernate/JPA, JavaFX, Android (Java), Node.js, WordPress, Figma |
@@ -26,15 +26,17 @@ including AI-assisted development.
 
 ## Projects
 
-- **[Internet Package Registration (JavaFX)](https://github.com/jlnMldnvc/javaFX.nj.20.02.assignment.plus)**:
-  desktop app with FXML, MVC, property binding and a TableView, custom dark CSS theme
 - **[To-Do app (React, TypeScript)](https://github.com/jlnMldnvc/loveable-todo-react-localStorage)**
   ([demo](https://modern-do-magic.lovable.app/)): minimal dark app with plain CSS and
-  `localStorage`, generated with Lovable from my prompts ([prompt history](https://github.com/jlnMldnvc/loveable-todo-react-localStorage/blob/main/prompts.md))
-- **[FitBody (Android, Java)](https://github.com/jlnMldnvc/FitBody2)**:
-  ideal weight and calorie calculators, calculation logic separated from the UI
+  `localStorage`, generated with Lovable from my prompts
+- **[Internet Package Registration (JavaFX)](https://github.com/jlnMldnvc/javaFX.nj.20.02.assignment.plus)**:
+  desktop app with FXML, MVC, property binding and a TableView, custom dark CSS theme
+- **[Tic-Tac-Toe in React: classes vs. hooks](https://github.com/jlnMldnvc/react-tic-tac-toe-plus)**:
+  time travel, move history, sort toggle, built step by step in both styles
 - **[Analog Clock (Canvas API)](https://github.com/jlnMldnvc/m-nj1-analog-clock)**:
   a minimal and an advanced version in plain JavaScript
+- **[FitBody (Android, Java)](https://github.com/jlnMldnvc/FitBody2)**:
+  ideal weight and calorie calculators, calculation logic separated from the UI
 - **[Calculator (Android, Java)](https://github.com/jlnMldnvc/Calculator2)**:
   four operations with operator precedence and input guards
 
@@ -43,4 +45,4 @@ says what I added.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/jelena-mladenović) · [jlnmldnvc@gmail.com](mailto:jlnmldnvc@gmail.com)
+[LinkedIn](https://linkedin.com/in/jelena-mladenovi%C4%87) · [jlnmldnvc@gmail.com](mailto:jlnmldnvc@gmail.com)
