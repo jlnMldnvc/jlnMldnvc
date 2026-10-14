@@ -7,6 +7,8 @@ courses, reviewing students' code and mentoring junior developers in Java, Andro
 JavaScript/React and web design. I build small projects to practise new tools,
 including AI-assisted development.
 
+Along the way: 1000+ code reviews, 20+ legacy courses migrated to current standards, 10+ hours of video tutorials.
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -19,10 +21,12 @@ including AI-assisted development.
 
 | Area | Technologies |
 |---|---|
-| **Strongest** | Java, JavaScript, HTML/CSS, SQL (MySQL), Git/GitHub |
-| **Working knowledge** | React, TypeScript, Spring Boot, Hibernate/JPA, JavaFX, Android (Java), Node.js, WordPress, Figma |
-| **Basics** | Vue, Angular, PHP, Python |
+| **Strongest** | Java (core, advanced), JavaScript (ES6+), HTML/CSS, SQL (MySQL), Git/GitHub |
+| **Working knowledge** | Spring (MVC, Boot), Hibernate/JPA, Jakarta EE (Servlets, JSP), JavaFX, Android (Java), React, TypeScript, Node.js, REST & SOAP, XML/JSON, Postman, Maven/Gradle, Figma, WordPress |
+| **Basics** | Vue, Angular, jQuery, PHP, Python, C/C++ |
+| **Practices** | OOP, design patterns, SDLC/Agile, UML, code review, software testing & QA |
 | **AI-assisted development** | ChatGPT, Claude, Gemini, Copilot, Lovable: prompting, reviewing and correcting generated code |
+| **Education** | Curriculum design, distance learning, mentoring, video tutorials |
 
 ## Projects
 
@@ -46,3 +50,14 @@ says what I added.
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/jelena-mladenovi%C4%87) · [jlnmldnvc@gmail.com](mailto:jlnmldnvc@gmail.com)
+
+<details>
+<summary>Full list by area</summary>
+
+- **Java:** core, advanced, JavaFX, Swing/AWT, JDBC, Jakarta EE (Servlet, JSP, JSTL, EJB), Spring (MVC, Boot), Hibernate/JPA, Android SDK (geolocation, sensors, animation, games)
+- **Web:** HTML5, CSS3, JavaScript (ES6+, async/await), TypeScript, React, Vue, Angular, Node.js, jQuery, Canvas API, Ajax
+- **Data & services:** SQL, MySQL, REST, SOAP, XML/JSON (DOM, SAX, JAXB)
+- **Tools:** IntelliJ IDEA, Android Studio, VS Code, Git/GitHub, Maven, Gradle, npm, Postman, Apache Tomcat, GlassFish
+- **Other:** PHP, C, C++, Python, Figma, WordPress
+
+</details>
