@@ -35,7 +35,7 @@ including AI-assisted development. Along the way: 1000+ code reviews,
   ideal weight and calorie calculators, calculation logic separated from the UI
 - **[Calculator (Android, Java)](https://github.com/jlnMldnvc/Calculator2)**:
   four operations with operator precedence and input guards
-- **[UI/UX Portfolio (Framer)](https://jane-doee.framer.website/home-7)**: multi-page portfolio website exploring visual hierarchy, reusable components, animations and responsive layouts; built with Framer and Figma as part of a UI/UX design course. Uses placeholder content and is a work in progress.
+- **[UI/UX Portfolio (Framer)](https://github.com/jlnMldnvc/ui-ux-framer-portfolio)**: multi-page portfolio website exploring visual hierarchy, reusable components, animations and responsive layouts; built with Framer and Figma as part of a UI/UX design course. Uses placeholder content and is a work in progress.
 
 Some repositories start from course-style exercises and extend them; each README
 says what I added.
